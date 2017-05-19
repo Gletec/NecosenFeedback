@@ -8,4 +8,7 @@ NECOSen システムはクローズドソースであるため、issueを分離�
 issueを立てても、必ずしも回答を得られるものとは限りません。
 また、場合によっては（実現不可能、回答不能）の場合はラベルを付けて終了とする場合もあります。
 
+# 関係者各位
+作業・内部資料等は [Gletec/Project-NECO-Fyra](https://github.com/Gletec/Project-NECO-Fyra) で 行ってください。
+
 仮版作成
